@@ -17,7 +17,7 @@ export function ShoppingIndex(){
         <div className="container-fluid">
             <BrowserRouter>
                <header className="d-flex justify-content-between bg-dark text-white p-2">
-                 <div className="brand">Shopper.</div>
+                 <div className="brand">Shop Keepper.</div>
                  <div>
                     <span><Link to='/home'>Home</Link></span>
                     <span><Link to='/categories'>Categories</Link></span>
